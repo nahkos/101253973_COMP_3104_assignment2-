@@ -1,0 +1,7 @@
+Sokhan Prum
+101253973
+Git repository created from AWS EC2 instance
+
+101253973_COMP_3104_assignment2 
+
+https://github.com/nahkos/101253973_COMP_3104_assignment2-.git
